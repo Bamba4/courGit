@@ -1,2 +1,3 @@
 var hello = 'Bonjour tout le monde' 
-alert(hello)
+alert(hello
+console.log(hello)
